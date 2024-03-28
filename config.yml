@@ -1,5 +1,5 @@
-title: Yashraj Deshmukh 
+ltitle: Yashraj Deshmukh 
 # logo: https://media.discordapp.net/attachments/1074720627921002526/1222872012968558602/ypng.png?ex=6617cb4f&is=6605564f&hm=34cc6c8b8f556ab3d0c50b1807b31929956c1c199a5ed7e09e02f97c6b22c425&=&format=webp&quality=lossless&width=385&height=385
 # description: text below image 
 show_downloads: true
-theme: midnight  
+theme: jekyll-theme-midnight  
